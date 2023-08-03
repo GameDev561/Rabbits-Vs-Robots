@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=izNXbMdu348&list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw
 https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66gFf
 https://www.youtube.com/watch?v=-5sBIUiutAk
 
+# Redo PixelArt
+http://anilyzer.com/?page_id=7&vId=jPbuiS6n57Q&type=youtube#playbackRate=undefined&seekTo=4.766238993710692
+
