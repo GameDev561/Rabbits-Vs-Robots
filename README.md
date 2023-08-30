@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66
 
 https://www.youtube.com/watch?v=-5sBIUiutAk
 
+# gravity
+https://gamemaker.io/en/tutorials/physics-in-gamemaker-studio-2-part-1
+
 !!!THIS IS THE CONTROLLER THING!!!
 
 https://www.youtube.com/watch?v=cjwkNqLREc4
