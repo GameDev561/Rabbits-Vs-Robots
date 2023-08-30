@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=izNXbMdu348&list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw
 # DAY 1 Movement and collisions
 https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66gFf
 https://www.youtube.com/watch?v=-5sBIUiutAk
+
 !!!THIS IS THE CONTROLLER THING!!!
 https://www.youtube.com/watch?v=cjwkNqLREc4
 
