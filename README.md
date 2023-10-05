@@ -12,3 +12,5 @@ Added the feature to press S or up d-pad to play dream spped run music.
 NEW LEVELS!
 
 SHOP FOR UPGRADES!
+
+MORE ENEMIES!
