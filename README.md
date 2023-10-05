@@ -1,6 +1,8 @@
 # RabbitsVsRobots
-This is used to make sure I can transfer my files onto different laptops
+Rabbits VS Robots is a singleplayer plateformer that I am developing. This github is for the updates and storage for the files for RVR. You can download the game via the google frive link below:
 
-# Refrence to remember original game
+https://drive.google.com/drive/folders/1EnMWT_gsHEp8mOS9JNWEdtLWUDGpAcpx?usp=sharing
 
-https://www.youtube.com/watch?v=izNXbMdu348&list=PLPRT_JORnIupqWsjRpJZjG07N01Wsw_GJ&pp=iAQB
+#RVR V3
+Changed controlls so you have A, D, W as well as the arrow keys to move.
+Added the feature to press S or up d-pad to play dream spped run music. 
