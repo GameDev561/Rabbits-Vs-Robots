@@ -16,3 +16,8 @@ SHOP FOR UPGRADES!
 MORE ENEMIES!
 
 NEW TUTORIAL!
+
+# Bugs that need to be fixed
+Timer only shows the first runs time
+
+invincibility against robots.
